@@ -1,2 +1,3 @@
 # sales-and-production-analysis
 It's a detailed analysis of sales and production of an chain store. It also includes the analysis as per individual stores and with regions. It helps to study the patterns in sales and even help to find trends from it.
+NOTE: It's a dummy data not a real data of any kind of store
